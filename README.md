@@ -1,13 +1,13 @@
 # Tipo de usuario 
-- [ ] Alfa = Raykel 
+- [x] Alfa = Raykel 
 - [ ] Bravo = Stephen  
-- [ ] Charlie = Geffry 
+- [x] Charlie = Geffry 
 - [ ] Delta = Darianny 
 - [x] Echo = Manuel 
  
 # Seleccione el tipo de actividad 
-- [ ] Feature 
+- [x] Feature 
 - [ ] Hotfix 
-- [ ] Refactor 
+- [x] Refactor 
 - [ ] Performance 
 - [x] Testing
